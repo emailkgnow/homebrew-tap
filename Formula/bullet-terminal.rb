@@ -3,8 +3,8 @@ class BulletTerminal < Formula
 
   desc "Terminal life manager built on four bullets: tasks, notes, journals, events"
   homepage "https://github.com/emailkgnow/bullet-terminal"
-  url "https://github.com/emailkgnow/bullet-terminal/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "179279df692ba404cab078577949eea78f1667d0361738c7e1d5441ebe93c78a"
+  url "https://github.com/emailkgnow/bullet-terminal/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "6d5d88077c87f8578fd73d233dba3bf7604ff528f579f64adc359029a85646cf"
   license "MIT"
 
   bottle do
