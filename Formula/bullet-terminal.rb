@@ -8,9 +8,9 @@ class BulletTerminal < Formula
   license "MIT"
 
   bottle do
-    root_url "https://github.com/emailkgnow/homebrew-tap/releases/download/bullet-terminal-0.2.0"
-    sha256 cellar: :any, arm64_tahoe:  "8187d32980bc92d05ff349f91699916db523e3c353d5967286021781231d8a46"
-    sha256 cellar: :any, x86_64_linux: "abf9dfb409dc230cc777f9d63e18bbeabff067196afed0a5ede989bc4cfd7990"
+    root_url "https://github.com/emailkgnow/homebrew-tap/releases/download/bullet-terminal-0.3.0"
+    sha256 cellar: :any, arm64_tahoe:  "9206011e3f090a740881fd0a8ac836f3ac545c60c546c0c630e05cef076a266d"
+    sha256 cellar: :any, x86_64_linux: "9efa31750747361a74c63e8c4784e3652479b623cb0de66c3aaf41ec6b1966d3"
   end
 
   depends_on "libyaml"
